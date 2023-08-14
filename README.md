@@ -1,6 +1,6 @@
 # Notas do autor
 
-Dashboard desenvolvido para o monitoramento da capacidade de pagamento dos municípios dos estados do Rio Grande do Sul e Santa Catarina. Disponível em: https://shorturl.hk/WVI3RE
+Dashboard desenvolvido para o monitoramento da capacidade de pagamento dos municípios dos estados do Rio Grande do Sul e Santa Catarina. Disponível em: https://e30895.shinyapps.io/dash_endividamento_municipal/
 
 ***Atualizado em 24/10/22***
 
